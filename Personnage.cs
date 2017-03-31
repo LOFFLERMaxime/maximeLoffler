@@ -3,9 +3,11 @@ public class Personnage{
 	{
 	}
 	
-	public void Regarder(Direction Direction, int distance)
+	public void Deplacer(Direction direction , int distance)
 	{
 	}
+	
+	
 
 
 }
